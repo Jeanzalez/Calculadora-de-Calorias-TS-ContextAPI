@@ -21,7 +21,7 @@ Este proyecto es una calculadora de calorías que permite a los usuarios registr
 Si deseas probar el proyecto en tu entorno local, sigue estos pasos:  
 
 1. Clona este repositorio
-2. Entra en la carpeta del proyecto "Calorie-tracker"
+2. Entra en la carpeta del proyecto "calorie-tracker-contextAPI"
 3. Instala las dependencias:  
    npm install
 4. Inicia el servidor de desarrollo:  
